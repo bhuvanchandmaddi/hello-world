@@ -33,7 +33,7 @@
 
    <h1> Thankyou, Happy Learning </h1>
   <h1> Good Bye..Hav a nice day</h1>
-    <h1> Finally we made it </h1>
+    <h1> Finally we made it ...</h1>
 
   
 </form>
